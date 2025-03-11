@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-# README.md
-
 <h1 align="center">Hola 👋, Me llamo Paula Rodríguez</h1>
 <h3 align="center">Soy una programadora que adora crecer y aprender</h3>
 
